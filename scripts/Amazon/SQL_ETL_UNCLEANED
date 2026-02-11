@@ -9,7 +9,8 @@ Script Purpose:
     
 	Action performed:
 		- Truncate amazon table to avoid any duplicate records
-		- Inserts transformed and cleaned data to amazon_sales_data_uncleaned2
+		- Inserts transformed and cleaned data to amazon_sales_data_uncleaned2.
+        - Used import file to import CSV files to Amazon tables
 
 Source: 
 	CSV files on Github repositories SQL-projects/Dataset/amazon folder under the name 
