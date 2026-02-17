@@ -17,7 +17,7 @@ Source:
 	amazon_products_sales_data_uncleaned (original Source: Kaggle.com).
 
 Usage Example:
-	EXEC amazon.load_sales_data_uncleaned2
+	EXEC amazon.load_data_uncleaned2
 
 ===============================================================================================
 */
