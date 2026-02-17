@@ -3,7 +3,7 @@
 =========================================================================================
 Dimension Exploration
 The purpose of this exploration is to have basic understanding about available dimensions
-in the table in order to gain big picture about the table.
+in the table in order to recognize how data might be grouped or segmented.
 =========================================================================================*/
 
 
