@@ -17,7 +17,12 @@ SELECT DISTINCT segment, customer_name
 FROM dbo.Superstore
 ORDER BY 1,2
 
---- Explore all countries available
+--- Explore  delivery or shipping methods
+SELECT DISTINCT Ship_Mode 
+FROM dbo.Superstore
+  
+  
+  --- Explore all countries available
 SELECT DISTINCT Country
 FROM dbo.Superstore
 
